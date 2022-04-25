@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace GunService
+﻿namespace GunService
 {
     class Program
     {

@@ -26,6 +26,21 @@ namespace GunService
                 case EGunsName.Usp:
                     iGunsStats = new Usp();
                     break;
+                case EGunsName.DesertEagle:
+                    iGunsStats = new DesertEagle();
+                    break;
+                case EGunsName.DualBerettas:
+                    iGunsStats = new DualBerettas();
+                    break;
+                case EGunsName.FiveSeven:
+                    iGunsStats = new FiveSeven();
+                    break;
+                case EGunsName.Xm1014:
+                    iGunsStats = new Xm1014();
+                    break;
+                case EGunsName.M4A4:
+                    iGunsStats = new M4A4();
+                    break;
             }
             return iGunsStats;
         }

@@ -6,6 +6,7 @@
         Shotguns,
         SubMachineGuns,
         Rifles,
-        MachineGuns
+        MachineGuns,
+        SniperRifles
     }
 }

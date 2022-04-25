@@ -14,6 +14,7 @@ namespace GunService
             this.iStats.Ammo(gunsStats);
             this.iStats.Name(gunsStats);
             this.iStats.Range(gunsStats);
+            this.iStats.Type(gunsStats);
         }
     }
 }

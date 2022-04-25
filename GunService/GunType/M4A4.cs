@@ -1,6 +1,6 @@
 ﻿namespace GunService.GunType
 {
-    public class Glock18 : IGunsStats
+    public class M4A4 : IGunsStats
     {
         public string Name(GunsStats gunsStats)
         {

@@ -16,5 +16,10 @@
         {
             return gunsStats.Range;
         }
+
+        public string Type(GunsStats gunsStats)
+        {
+            return gunsStats.Type;
+        }
     }
 }

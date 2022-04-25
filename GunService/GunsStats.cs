@@ -5,5 +5,6 @@
         public string Name { get; set; }
         public int Ammo { get; set; }
         public float Range { get; set; }
+        public string Type { get; set; }
     }
 }
