@@ -3,7 +3,6 @@ C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\GunService
 C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\GunService.runtimeconfig.json
 C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\GunService.runtimeconfig.dev.json
 C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\GunService.dll
-C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\ref\GunService.dll
 C:\Users\Łukasz\RiderProjects\GunService\GunService\bin\Debug\net5.0\GunService.pdb
 C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\GunService.csproj.AssemblyReference.cache
 C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\GunService.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\GunService
 C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\ref\GunService.dll
 C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\GunService.pdb
 C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\GunService.genruntimeconfig.cache
+C:\Users\Łukasz\RiderProjects\GunService\GunService\obj\Debug\net5.0\refint\GunService.dll

@@ -4,17 +4,17 @@ namespace GunService
 {
     public class GunsProcessor
     {
-        private IGunsStats iStats = null;
+        private IGunsStats _iStats;
 
         public void GetStats(EGunsName name, EGunsType type, GunsStats gunsStats) 
         {
             var factory = new GunsFactory();
 
-            this.iStats = factory.CreateGun(type, name, gunsStats);
-            this.iStats.Ammo(gunsStats);
-            this.iStats.Name(gunsStats);
-            this.iStats.Range(gunsStats);
-            this.iStats.Type(gunsStats);
+            this._iStats = factory.CreateGun(type, name, gunsStats);
+            this._iStats.Ammo(gunsStats);
+            this._iStats.Name(gunsStats);
+            this._iStats.Range(gunsStats);
+            this._iStats.Type(gunsStats);
         }
     }
 }

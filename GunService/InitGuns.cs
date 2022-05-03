@@ -12,9 +12,9 @@ namespace GunService
         {
             Console.WriteLine("Choose a Gun: ");
 
-            foreach (var mame in Enum.GetNames(typeof(EGunsName)))
+            foreach (var name in Enum.GetNames(typeof(EGunsName)))
             {
-                Console.Write($"{mame} \t");
+                Console.Write($"{name} \t");
             }
             
             var choose = Convert.ToInt32(Console.ReadLine());

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JNKfM3R8Hy56eRLSnu1J8Mu/sD3vmhZa46hOwK0KPGMKRjLxMw0N1yFXA+ou+d5Ka9i8ghs4LEZaKm+yQJSNzg==",
+  "dgSpecHash": "8LGHqZoXbw7xRdVCJdvC1ywFiLpM/FU99HLUmMLWKEi7g8tgrc/rcp3A1HxjmiFgbDS/hDkZ6A/0W7LFK1u/XQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Łukasz\\RiderProjects\\GunService\\GunService\\GunService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
